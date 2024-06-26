@@ -16,7 +16,7 @@ Proyek sederhana berbasis C++ yang dirancang untuk mensimulasikan sistem pemesan
 Berikut adalah beberapa screenshot dari hasil running program:
 
 ### Pemesanan Kamar
-![Pemesanan Kamar](/assets/)
+![Pemesanan Kamar](/assets/ss1.png)
 
 ### Riwayat Pemesanan
 ![Riwayat Pemesanan](assets/riwayat_pemesanan.png)
