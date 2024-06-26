@@ -19,10 +19,10 @@ Berikut adalah beberapa screenshot dari hasil running program:
 ![Pemesanan Kamar](/assets/ss1.png)
 
 ### Riwayat Pemesanan
-![Riwayat Pemesanan](assets/riwayat_pemesanan.png)
+![Riwayat Pemesanan](assets/ss2.png)
 
 ### Sorting
-![Sorting](assets/sorting_kamar.png)
+![Sorting](assets/ss3.png)
 
 ### Pencarian
-![Searching](docs/assets/pencarian_kamar.png)
+![Searching](assets/ss4.png)
